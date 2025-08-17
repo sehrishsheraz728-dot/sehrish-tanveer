@@ -8,7 +8,7 @@ I’m a copywriter/content specialist with hands-on experience in on-page SEO (i
 - Content ops: checklists, PR/issue workflows on GitHub
   
 **Skills & tools**
-- SEO: Keyword research, PAA, AnswerThePublic
+- SEO: Keyword research, Semrush, AnswerThePublic
 - CMS: WordPress
 - Collab: GitHub (issues/PR), Google Docs, Trello
 
